@@ -33,10 +33,9 @@ Key fields: `loan_status`, `loan_amount`, `total_payment`, `int_rate`, `dti`, `t
 
 | Stage | Tool | What it was used for |
 |---|---|---|
-| 1. Initial Cleaning & Exploration | **Excel** | First-pass data audit and pivot table checks |
-| 2. Data Cleaning & KPI Calculation | **Python** (pandas, numpy, matplotlib, seaborn) | Structured cleaning, null/duplicate handling, type fixes, KPI computation, EDA visuals |
-| 3. Business Queries | **SQL** | Segment-level querying (state, purpose, grade) for deeper reporting |
-| 4. Dashboard | **Power BI** | Interactive executive dashboard with KPI cards, trends, and drill-downs |
+
+| 1. Data Cleaning & KPI Calculation | **Python** (pandas, numpy, matplotlib, seaborn) | Structured cleaning, null/duplicate handling, type fixes, KPI computation, EDA visuals |
+| 2. Dashboard | **Power BI** | Interactive executive dashboard with KPI cards, trends, and drill-downs |
 
 ---
 
