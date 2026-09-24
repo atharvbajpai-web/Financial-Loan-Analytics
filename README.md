@@ -74,7 +74,6 @@ The dashboard has two pages, filterable by **Grade**, **Purpose**, and **Address
 
 ![Summary Page](Screenshot%202026-09-22%20225210.png)
 
-
 - KPI cards: Total Loan Applications, Total Funded Amount, Total Received Amount, Average Interest Rate, Average DTI (each with MTD and MoM change)
 - **Good Loan vs Bad Loan** donut charts with application count, funded amount, and received amount for each
 - A breakdown table by `loan_status` (Current / Charged Off / Fully Paid) showing applications, funded amount, received amount, avg interest rate, and avg DTI
@@ -87,7 +86,6 @@ The dashboard has two pages, filterable by **Grade**, **Purpose**, and **Address
 - Total Received Amount **by state** (map view)
 - Total Received Amount **by term** (36 vs 60 months, pie chart)
 - Total Received Amount **by employment length** (bar chart)
-
 
 ---
 
@@ -108,12 +106,12 @@ Financial-Loan-Analytics/
 │
 ├── README.md
 ├── LICENSE
+├── requirements.txt
 ├── financial_loan_dataset.csv
 ├── finance_project_python.ipynb
 ├── Screenshot 2026-09-22 225210.png   # Power BI summary page
 └── Screenshot 2026-09-22 225234.png   # Power BI overview page
 ```
-
 
 ---
 
