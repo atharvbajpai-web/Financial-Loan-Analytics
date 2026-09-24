@@ -72,11 +72,16 @@ The dashboard has two pages, filterable by **Grade**, **Purpose**, and **Address
 
 ### Page 1 — Summary
 
+![Summary Page](Screenshot%202026-09-22%20225210.png)
+
+
 - KPI cards: Total Loan Applications, Total Funded Amount, Total Received Amount, Average Interest Rate, Average DTI (each with MTD and MoM change)
 - **Good Loan vs Bad Loan** donut charts with application count, funded amount, and received amount for each
 - A breakdown table by `loan_status` (Current / Charged Off / Fully Paid) showing applications, funded amount, received amount, avg interest rate, and avg DTI
 
 ### Page 2 — Overview
+
+![Overview Page](Screenshot%202026-09-22%20225234.png)
 
 - Total Received Amount trend **by month** (Jan → Dec)
 - Total Received Amount **by state** (map view)
